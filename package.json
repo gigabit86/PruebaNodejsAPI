@@ -21,7 +21,7 @@
     "bcrypt": "^3.0.6",
     "koa": "^1.2.4",
     "koa-better-body": "^3.0.2",
-    "koa-jwt": "^1.2.0",
+    "koa-jwt": "^4.0.4",
     "koa-router": "^5.4.0",
     "mongoose": "^5.6.1",
     "mongoose-assert": "^1.0.2",
